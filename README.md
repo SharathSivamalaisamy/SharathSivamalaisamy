@@ -1,8 +1,6 @@
 # Hey there 👋 I'm Sharath
 
-Software engineer building real systems used by teams and products. I work on APIs, data pipelines, distributed components, and reliable software that solves real problems in production. I enjoy writing code that’s clear, dependable, and easy to collaborate on.
-
-I’m always learning new tools, exploring how systems behave at scale, and looking for opportunities where I can contribute meaningfully, grow quickly, and take ownership of work that matters.
+Software engineer learning by working on real systems. I’ve spent time building APIs, working with data, and contributing to production codebases, and I’m most interested in understanding how things actually work once they’re in use. I’m looking for opportunities where I can keep learning, take on more responsibility, and grow through real-world problems.
 
 ---
 
@@ -30,8 +28,7 @@ CI/CD · Agile/Scrum · Background Jobs · Distributed Concepts
 
 - 🏅 **Winner, HPE Internal Hackathon** — Built a backend solution selected as the top project and showcased beyond the core team  
 - 🥉 **Bronze Medalist, University Physics Competition** — International competition focused on open-ended problem solving  
-- 🚀 Shipped software used by engineering teams in production environments  
-- 🔍 Improved internal LLM workflows with a retrieval system that reduced costs by ~30-50%
+
 
 ---
 
