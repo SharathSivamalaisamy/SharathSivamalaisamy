@@ -1,63 +1,39 @@
-# Hey there 👋 I'm Sharath
+# Sharath Sivamalaisamy
 
-Software engineer learning by working on real systems. I’ve spent time building APIs, working with data, and contributing to production codebases, and I’m most interested in understanding how things actually work once they’re in use. I’m looking for opportunities where I can keep learning, take on more responsibility, and grow through real-world problems.
+Software engineer at HPE Labs. I build LLM retrieval systems, 
+PQC scanners, federated learning pipelines, and full-stack apps. 
+U.S. citizen, open to remote roles and relocation.
 
----
+## What I've shipped
 
-## 👨‍💻 What I do
+- **Yaar (PQC Scanner)** — Built the entire test framework solo 
+from an API list with no architecture. 30,000+ APIs across Python, 
+Java, C++, Rust, Go. 85% detection vs 30% for competing tools. 
+On track to be HPE's standard scanner company-wide.
 
-- Build and maintain software that powers real systems and features
-- Work with APIs, data processing, storage, and backend logic
-- Think about reliability, performance, and long-term correctness
-- Collaborate with engineers, review code, and ship features to users
+- **Knowledge Graph LLM Retrieval** — Hybrid retrieval combining 
+graph traversal with vector DB for time-series enterprise reports. 
+30-50% token reduction and accuracy improvement over vector-only 
+RAG. Won HPE All-India hackathon, selected for Pan-HPE 
+international representation.
 
----
+- **groundsource** — Python package on PyPI. Processes 2.6M flood 
+events across 150+ countries from a raw Google dataset. Spatial 
+joins, interactive world map, search and trend API.
+[github.com/SharathSivamalaisamy/groundsource](https://github.com/SharathSivamalaisamy/groundsource)
 
-## 💡 Tech & Tools
+- **Async Task Platform** — Distributed task queue with 
+transactional locking, concurrent workers, retries with 
+exponential backoff, and failure isolation. Same class as 
+Celery/Sidekiq/Temporal.
 
-Here are the languages, frameworks, and tools I’ve used:
-Python · JavaScript · C++ · SQL · REST APIs · Linux
-Docker · AWS · FastAPI · React · PostgreSQL
-CI/CD · Agile/Scrum · Background Jobs · Distributed Concepts
+## Stack
 
+Python, FastAPI, React, TypeScript, PostgreSQL, Docker, 
+Redis, AWS, HuggingFace, vector databases, LLMs, RAG pipelines
 
+## Contact
 
----
-
-## 🏆 Achievements
-
-- 🏅 **Winner, HPE Internal Hackathon** — Built a backend solution selected as the top project and showcased beyond the core team  
-- 🥉 **Bronze Medalist, University Physics Competition** — International competition focused on open-ended problem solving  
-
-
----
-
-## 📫 Connect with me
-
-If you want to talk tech, collaborations, or opportunities:
-
-📧 sharath.siva1312@gmail.com  
-🔗 https://www.linkedin.com/in/sharath-s-/  
-🌍 Based in India (UTC+5:30) — open to remote roles
-
----
-
-Thanks for stopping by! 😊
-
-
-
-
-<!--
-**SharathSivamalaisamy/SharathSivamalaisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sharath.siva1312@gmail.com
+[linkedin.com/in/sharath-s-](https://linkedin.com/in/sharath-s-/)
++1 (628) 263-4345
