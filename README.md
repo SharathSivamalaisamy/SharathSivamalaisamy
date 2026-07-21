@@ -6,6 +6,8 @@ U.S. citizen, open to remote roles and relocation.
 
 ## What I've shipped
 
+- **Governance Layer for Multi-Agent LLM Systems** —  Built a governance layer for multi-agent LLM systems that records decision provenance, authorization, and identity across agent workflows, enabling auditors to reconstruct why an agent was selected, why alternatives were rejected, and under whose authority every action executed. Implemented policy-based ALLOW/DENY enforcement, identity delegation, tamper-evident hash-chained audit logs, secret redaction, and exported enriched traces through OpenTelemetry for interoperability with existing observability platforms.
+
 - **Yaar (PQC Scanner)** — Built the entire test framework solo 
 from an API list with no architecture. 30,000+ APIs across Python, 
 Java, C++, Rust, Go. 85% detection vs 30% for competing tools. 
